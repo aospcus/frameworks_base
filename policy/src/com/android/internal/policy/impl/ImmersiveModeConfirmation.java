@@ -309,9 +309,6 @@ public class ImmersiveModeConfirmation {
                     case HIDE:
                         handleHide();
                         break;
-                    case PANIC:
-                        handlePanic();
-                        break;
                 }
             } else {
                 handleHide();
